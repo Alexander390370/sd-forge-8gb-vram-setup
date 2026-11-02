@@ -5,6 +5,10 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Platform: WSL2](https://img.shields.io/badge/Platform-WSL2-blue)
 ![Python 3.10](https://img.shields.io/badge/Python-3.10-blue)
+![GPU](https://img.shields.io/badge/GPU-RTX_4060_8GB-76B900?logo=nvidia&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-WebUI_Forge-orange)
+![CUDA](https://img.shields.io/badge/CUDA-12.1-76B900?logo=nvidia&logoColor=white)
+![Torch](https://img.shields.io/badge/PyTorch-2.12-EE4C2C?logo=pytorch&logoColor=white)
 
 > **Status**: Field notes / engineering log. Not a maintained tool. The goal is to document what actually worked (and what didn't) so the next person saves a few hours.
 
